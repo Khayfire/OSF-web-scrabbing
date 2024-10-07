@@ -48,10 +48,6 @@ input{
     background: transparent; 
 }
 
-.input label{
-    background: none;
-}
-
 .input :hover{
     background: white;
 }
@@ -61,13 +57,11 @@ label{
     font-weight: 500;
 }
 
-
 textarea{
    margin: 15px 0;
    width: 250px;
    height: 70px;
 }
-
 
 .click{
     display: flex;
